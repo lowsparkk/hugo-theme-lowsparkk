@@ -1,0 +1,15 @@
+[about]
+Name = "About"
+URL = "/about"
+
+[posts]
+Name = "Posts"
+URL = "/post"
+
+[tags]
+Name = "Tags"
+URL = "/tags"
+
+[topics]
+Name = "Topics"
+URL = "/topics"
